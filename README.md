@@ -3,7 +3,7 @@ You are reaching Ryaee.
 
 **Current Senior CSE major @ the Ohio State Univeristy**
 
-**Acedamic & work Email: gu.798@osu.edu**
+**Academic & work Email: gu.798@osu.edu**
 
 Capable language includes: Python; Java; C/C++.
 
