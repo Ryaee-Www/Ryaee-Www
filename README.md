@@ -1,4 +1,8 @@
 ### Hi there 👋
+You are reaching Ryaee.
+-Current Senior CSE major @ the Ohio State Univeristy-
+-Capable language includes: Python; Java, C/C++;
+
 
 <!--
 **Ryaee-Www/Ryaee-Www** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
