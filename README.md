@@ -5,7 +5,7 @@ You are reaching Ryaee.
 
 **Acedamic & work Email: gu.798@osu.edu**
 
-Capable language includes: Python; Java, C/C++;
+Capable language includes: Python; Java; C/C++.
 
 
 <!--
