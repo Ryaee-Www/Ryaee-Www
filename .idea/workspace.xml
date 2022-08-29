@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23c3a56d-505a-4667-8950-cb0d5a6fa839" name="Changes" comment="leetcode #143 Reorder List">
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+    <list default="true" id="23c3a56d-505a-4667-8950-cb0d5a6fa839" name="Changes" comment="leetcode #143 Reorder List&#10;1st attempt accepted">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +17,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -44,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661720882755</updated>
-      <workItem from="1661720883984" duration="8165000" />
+      <workItem from="1661720883984" duration="9928000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode #143 Reorder List">
       <created>1661721459399</created>
@@ -53,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661721459399</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="leetcode #143 Reorder List&#10;1st attempt accepted">
+      <created>1661748045266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661748045266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leetcode #143 Reorder List" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode #143 Reorder List" />
+    <MESSAGE value="leetcode #143 Reorder List&#10;1st attempt accepted" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode #143 Reorder List&#10;1st attempt accepted" />
   </component>
 </project>
