@@ -1,7 +1,7 @@
 ### Hi there 👋
 You are reaching Ryaee.
 
-**Current Senior Undergrads @ the Ohio State Univeristy, Department of Computer Science and Engineering**
+**Graduated from the Ohio State Univeristy, Department of Computer Science and Engineering**
 
 **Academic & work Email: gu.798@osu.edu**
 
