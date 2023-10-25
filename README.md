@@ -3,7 +3,7 @@ You are reaching Ryaee.
 
 **Graduated from the Ohio State Univeristy, Department of Computer Science and Engineering**
 
-**Pursuing Master's degree in computer Science at Georgia Institude of Technology**
+**Currently pursuing Master's degree in computer Science at Georgia Institude of Technology**
 
 **Academic & work Email: ygu362@gatech.edu**
 
