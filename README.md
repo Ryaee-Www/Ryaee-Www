@@ -3,10 +3,9 @@ You are reaching Ryaee.
 
 **Graduated from the Ohio State Univeristy, Department of Computer Science and Engineering**
 
-**Academic & work Email: gu.798@osu.edu**
+**Pursuing Master's degree in computer Science at Georgia Institude of Technology**
 
-Capable language includes: Python; Java; C/C++.
-
+**Academic & work Email: ygu362@gatech.edu**
 
 <!--
 **Ryaee-Www/Ryaee-Www** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
